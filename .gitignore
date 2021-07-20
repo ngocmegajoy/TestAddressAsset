@@ -1,7 +1,3 @@
 
-catalog_2021.07.20.03.05.58.hash
-catalog_2021.07.20.03.05.58.json
-catalog_2021.07.20.04.07.18.hash
-catalog_2021.07.20.04.07.18.json
-catalog_2021.07.20.04.14.24.hash
-catalog_2021.07.20.04.14.24.json
+*.hash
+*.json
